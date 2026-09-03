@@ -83,6 +83,7 @@ Here's what I've built:
 - [`bunlock-dedupe`](https://github.com/IlyaSemenov/bunlock-dedupe) — Analyze and deduplicate dependencies in `bun.lock`.
 - [`vite-plugin-module-boundaries`](https://github.com/IlyaSemenov/vite-plugin-module-boundaries) — Fail Vite builds when imports cross configured filesystem boundaries.
 - [`eslint-config`](https://github.com/IlyaSemenov/eslint-config) — Reusable ESLint configuration for projects I develop or oversee.
+- [`eslint-plugin-import-remap`](https://github.com/IlyaSemenov/eslint-plugin-import-remap) — Remap imports with ESLint autofixes.
 - [`stylelint-config`](https://github.com/IlyaSemenov/stylelint-config) — Reusable Stylelint configuration for projects I develop or oversee.
 - [`tsconfig-vite-node`](https://github.com/IlyaSemenov/tsconfig-vite-node) — Opinionated TSConfig for Node applications run with `vite-node` or built with Vite.
 - [`npm-package-starter`](https://github.com/IlyaSemenov/npm-package-starter) — Scaffold and synchronize production TypeScript npm packages from reusable conventions.
