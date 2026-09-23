@@ -49,6 +49,7 @@ Here's what I've built:
 - [`vue-form-submit`](https://github.com/IlyaSemenov/vue-form-submit) — Small Vue 3 composables for form submission and optional Standard Schema validation.
 - [`vue-router-navigation`](https://github.com/IlyaSemenov/vue-router-navigation) — Navigation helpers for deeply nested Vue Router paths.
 - [`orpc-nuxt`](https://github.com/IlyaSemenov/orpc-nuxt) — oRPC integration for Nuxt with TanStack Vue Query composables.
+- [`nuxt-request-context`](https://github.com/IlyaSemenov/nuxt-request-context) — Provide typed request-specific data to Nuxt before the initial render.
 - [`nuxt3-class-component`](https://github.com/IlyaSemenov/nuxt3-class-component) — Class-component support for Nuxt 3/4 and a migration path from `nuxt-property-decorator`.
 - [`nuxt-update`](https://github.com/IlyaSemenov/nuxt-update) — Detect deployed Nuxt application updates and notify or refresh clients.
 - [`nuxt-vite-legacy`](https://github.com/IlyaSemenov/nuxt-vite-legacy) — Legacy-browser support for Nuxt 3 through Vite's legacy plugin.
