@@ -30,6 +30,7 @@ Here's what I've built:
 - [`graphile-worker-tasks`](https://github.com/IlyaSemenov/graphile-worker-tasks) — Organize, collect, and test Graphile Worker tasks.
 - [`graphile-worker-orchid`](https://github.com/IlyaSemenov/graphile-worker-orchid) — Use Graphile Worker with Orchid ORM.
 - [`orchid-pagination`](https://github.com/IlyaSemenov/orchid-pagination) — Page-number and cursor pagination helpers for Orchid ORM.
+- [`rake-db-testing`](https://github.com/IlyaSemenov/rake-db-testing) — Verify rake-db migration history and data migration scenarios on PostgreSQL.
 - [`graphql-orm`](https://github.com/IlyaSemenov/graphql-orm) (`objection-graphql-resolver`, `orchid-graphql`) — Resolve GraphQL queries against Objection.js or Orchid ORM tables and relations.
 - [`graphql-define-resolvers`](https://github.com/IlyaSemenov/graphql-define-resolvers) — Collect strongly typed GraphQL query and mutation resolvers across modules.
 - [`h3-errors`](https://github.com/IlyaSemenov/h3-errors) — Assertion and error helpers for HTTP 4xx/5xx responses in H3.
