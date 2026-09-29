@@ -87,6 +87,7 @@ Here's what I've built:
 
 - [`bunlock-dedupe`](https://github.com/IlyaSemenov/bunlock-dedupe) — Analyze and deduplicate dependencies in `bun.lock`.
 - [`vite-plugin-module-boundaries`](https://github.com/IlyaSemenov/vite-plugin-module-boundaries) — Fail Vite builds when imports cross configured filesystem boundaries.
+- [`oxc-config`](https://github.com/IlyaSemenov/oxc-config) — Reusable oxlint, oxfmt, and ESLint configurations for projects I develop or oversee.
 - [`eslint-config`](https://github.com/IlyaSemenov/eslint-config) — Reusable ESLint configuration for projects I develop or oversee.
 - [`eslint-plugin-import-remap`](https://github.com/IlyaSemenov/eslint-plugin-import-remap) — Remap imports with ESLint autofixes.
 - [`stylelint-config`](https://github.com/IlyaSemenov/stylelint-config) — Reusable Stylelint configuration for projects I develop or oversee.
