@@ -33,6 +33,7 @@ Here's what I've built:
 - [`rake-db-testing`](https://github.com/IlyaSemenov/rake-db-testing) — Verify rake-db migration history and data migration scenarios on PostgreSQL.
 - [`graphql-orm`](https://github.com/IlyaSemenov/graphql-orm) (`objection-graphql-resolver`, `orchid-graphql`) — Resolve GraphQL queries against Objection.js or Orchid ORM tables and relations.
 - [`graphql-define-resolvers`](https://github.com/IlyaSemenov/graphql-define-resolvers) — Collect strongly typed GraphQL query and mutation resolvers across modules.
+- [`trpc-multiplex`](https://github.com/IlyaSemenov/trpc-multiplex) — Run many tRPC subscriptions over one HTTP stream per tab, or per browser through a shared worker.
 - [`h3-errors`](https://github.com/IlyaSemenov/h3-errors) — Assertion and error helpers for HTTP 4xx/5xx responses in H3.
 - [`h3-jwt-auth`](https://github.com/IlyaSemenov/h3-jwt-auth) — Basic JWT authentication helpers for H3 and Nuxt.
 - [`h3-websocket-request`](https://github.com/IlyaSemenov/h3-websocket-request) — H3 WebSocket handlers that can request additional client-side data while processing a request.
