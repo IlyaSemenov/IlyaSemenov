@@ -52,6 +52,7 @@ Here's what I've built:
 - [`vue-router-navigation`](https://github.com/IlyaSemenov/vue-router-navigation) — Navigation helpers for deeply nested Vue Router paths.
 - [`orpc-nuxt`](https://github.com/IlyaSemenov/orpc-nuxt) — oRPC integration for Nuxt with TanStack Vue Query composables.
 - [`nuxt-request-context`](https://github.com/IlyaSemenov/nuxt-request-context) — Provide typed request-specific data to Nuxt before the initial render.
+- [`nuxt-surface`](https://github.com/IlyaSemenov/nuxt-surface) — Serve several sites from one Nuxt app, each with its own pages at the same URLs.
 - [`nuxt-hydration-gate`](https://github.com/IlyaSemenov/nuxt-hydration-gate) — Nuxt hydration marker for CSS, scripts, and E2E tests.
 - [`nuxt-vitest-shared-app`](https://github.com/IlyaSemenov/nuxt-vitest-shared-app) — Run Nuxt component tests in Vitest on one shared app per worker, with per-test cleanup.
 - [`nuxt3-class-component`](https://github.com/IlyaSemenov/nuxt3-class-component) — Class-component support for Nuxt 3/4 and a migration path from `nuxt-property-decorator`.
