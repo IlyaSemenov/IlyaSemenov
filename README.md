@@ -37,6 +37,7 @@ Here's what I've built:
 - [`h3-errors`](https://github.com/IlyaSemenov/h3-errors) — Assertion and error helpers for HTTP 4xx/5xx responses in H3.
 - [`h3-jwt-auth`](https://github.com/IlyaSemenov/h3-jwt-auth) — Basic JWT authentication helpers for H3 and Nuxt.
 - [`h3-websocket-request`](https://github.com/IlyaSemenov/h3-websocket-request) — H3 WebSocket handlers that can request additional client-side data while processing a request.
+- [`image-renditions`](https://github.com/IlyaSemenov/image-renditions) — On-demand image transformations that persist every result to durable storage and keep app servers stateless.
 
 <details>
 <summary><strong>Earlier work</strong></summary>
