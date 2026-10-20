@@ -99,6 +99,7 @@ Here's what I've built:
 
 ### Agent skills
 
+- [`top-down-review-skill`](https://github.com/IlyaSemenov/top-down-review-skill) — Code review that starts from the task, not the diff: purpose, target solution, then implementation.
 - [`agent-review-skill`](https://github.com/IlyaSemenov/agent-review-skill) — Iterative code, diff, and plan reviews through another CLI coding agent.
 - [`pi-transcript-skill`](https://github.com/IlyaSemenov/pi-transcript-skill) — Extract clean conversational transcripts from pi.dev session files.
 
