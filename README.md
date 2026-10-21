@@ -23,7 +23,7 @@ Here's what I've built:
 
 </details>
 
-### Backend, PostgreSQL, and GraphQL
+### Databases and ORMs
 
 - [`pg-event-bus`](https://github.com/IlyaSemenov/pg-event-bus) — Typed real-time events over PostgreSQL `LISTEN`/`NOTIFY` for cache invalidation and live updates.
 - [`pg-advisory-lock`](https://github.com/IlyaSemenov/pg-advisory-lock) — Coordinate exclusive work across application instances with PostgreSQL session-level advisory locks.
@@ -32,17 +32,26 @@ Here's what I've built:
 - [`orchid-pagination`](https://github.com/IlyaSemenov/orchid-pagination) — Page-number and cursor pagination helpers for Orchid ORM.
 - [`rake-db-testing`](https://github.com/IlyaSemenov/rake-db-testing) — Verify rake-db migration history and data migration scenarios on PostgreSQL.
 - [`graphql-orm`](https://github.com/IlyaSemenov/graphql-orm) (`objection-graphql-resolver`, `orchid-graphql`) — Resolve GraphQL queries against Objection.js or Orchid ORM tables and relations.
-- [`graphql-define-resolvers`](https://github.com/IlyaSemenov/graphql-define-resolvers) — Collect strongly typed GraphQL query and mutation resolvers across modules.
-- [`trpc-multiplex`](https://github.com/IlyaSemenov/trpc-multiplex) — Run many tRPC subscriptions over one HTTP stream per tab, or per browser through a shared worker.
-- [`h3-errors`](https://github.com/IlyaSemenov/h3-errors) — Assertion and error helpers for HTTP 4xx/5xx responses in H3.
-- [`h3-jwt-auth`](https://github.com/IlyaSemenov/h3-jwt-auth) — Basic JWT authentication helpers for H3 and Nuxt.
-- [`h3-websocket-request`](https://github.com/IlyaSemenov/h3-websocket-request) — H3 WebSocket handlers that can request additional client-side data while processing a request.
-- [`image-renditions`](https://github.com/IlyaSemenov/image-renditions) — On-demand image transformations that persist every result to durable storage and keep app servers stateless.
 
 <details>
 <summary><strong>Earlier work</strong></summary>
 
 - [`objection-reorder`](https://github.com/IlyaSemenov/objection-reorder) — Reorder PostgreSQL-backed rows through Objection.js.
+
+</details>
+
+### HTTP and APIs
+
+- [`image-renditions`](https://github.com/IlyaSemenov/image-renditions) — On-demand image transformations that persist every result to durable storage and keep app servers stateless.
+- [`graphql-define-resolvers`](https://github.com/IlyaSemenov/graphql-define-resolvers) — Collect strongly typed GraphQL query and mutation resolvers across modules.
+- [`trpc-multiplex`](https://github.com/IlyaSemenov/trpc-multiplex) — Run many tRPC subscriptions over one HTTP stream per tab, or per browser through a shared worker.
+- [`h3-errors`](https://github.com/IlyaSemenov/h3-errors) — Assertion and error helpers for HTTP 4xx/5xx responses in H3.
+- [`h3-jwt-auth`](https://github.com/IlyaSemenov/h3-jwt-auth) — Basic JWT authentication helpers for H3 and Nuxt.
+- [`h3-websocket-request`](https://github.com/IlyaSemenov/h3-websocket-request) — H3 WebSocket handlers that can request additional client-side data while processing a request.
+
+<details>
+<summary><strong>Earlier work</strong></summary>
+
 - [`koa-mount-final`](https://github.com/IlyaSemenov/koa-mount-final) — Prevent matched but unhandled Koa sub-routes from falling through to later middleware.
 
 </details>
@@ -78,15 +87,19 @@ Here's what I've built:
 
 - [`h3-websocket-anchor-wallet-request`](https://github.com/IlyaSemenov/h3-websocket-anchor-wallet-request) — Request client-side Anchor Wallet transaction signing from an H3 server handler.
 
+## Agent skills
+
+- [`top-down-review-skill`](https://github.com/IlyaSemenov/top-down-review-skill) — Code review that starts from the task, not the diff: purpose, target solution, then implementation.
+- [`agent-review-skill`](https://github.com/IlyaSemenov/agent-review-skill) — Iterative code, diff, and plan reviews through another CLI coding agent.
+- [`pi-transcript-skill`](https://github.com/IlyaSemenov/pi-transcript-skill) — Extract clean conversational transcripts from pi.dev session files.
+
 ## Applications and integrations
 
 - [`git-telegram-bot`](https://github.com/IlyaSemenov/git-telegram-bot) — Forward GitHub and GitLab webhook events to Telegram, including workflows, pipelines, and branch filtering.
 - [`terneo-ha`](https://github.com/IlyaSemenov/terneo-ha) — Local Home Assistant integration for Terneo thermostats, without a cloud dependency.
 - [`wikipedia-word-frequency`](https://github.com/IlyaSemenov/wikipedia-word-frequency) — Generate multilingual word-frequency datasets from Wikipedia dumps.
 
-## Tooling and automation
-
-### Development tooling
+## Development tooling
 
 - [`bunlock-dedupe`](https://github.com/IlyaSemenov/bunlock-dedupe) — Analyze and deduplicate dependencies in `bun.lock`.
 - [`vite-plugin-module-boundaries`](https://github.com/IlyaSemenov/vite-plugin-module-boundaries) — Fail Vite builds when imports cross configured filesystem boundaries.
@@ -96,15 +109,6 @@ Here's what I've built:
 - [`stylelint-config`](https://github.com/IlyaSemenov/stylelint-config) — Reusable Stylelint configuration for projects I develop or oversee.
 - [`tsconfig-vite-node`](https://github.com/IlyaSemenov/tsconfig-vite-node) — Opinionated TSConfig for Node applications run with `vite-node` or built with Vite.
 - [`npm-package-starter`](https://github.com/IlyaSemenov/npm-package-starter) — Scaffold and synchronize production TypeScript npm packages from reusable conventions.
-
-### Agent skills
-
-- [`top-down-review-skill`](https://github.com/IlyaSemenov/top-down-review-skill) — Code review that starts from the task, not the diff: purpose, target solution, then implementation.
-- [`agent-review-skill`](https://github.com/IlyaSemenov/agent-review-skill) — Iterative code, diff, and plan reviews through another CLI coding agent.
-- [`pi-transcript-skill`](https://github.com/IlyaSemenov/pi-transcript-skill) — Extract clean conversational transcripts from pi.dev session files.
-
-### Infrastructure and deployment
-
 - [`gitlab-ci-git-push`](https://github.com/IlyaSemenov/gitlab-ci-git-push) — Push repository changes from GitLab CI.
 
 <details>
