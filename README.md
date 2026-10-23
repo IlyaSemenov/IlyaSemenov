@@ -31,7 +31,8 @@ Here's what I've built:
 - [`graphile-worker-orchid`](https://github.com/IlyaSemenov/graphile-worker-orchid) — Use Graphile Worker with Orchid ORM.
 - [`orchid-pagination`](https://github.com/IlyaSemenov/orchid-pagination) — Page-number and cursor pagination helpers for Orchid ORM.
 - [`rake-db-testing`](https://github.com/IlyaSemenov/rake-db-testing) — Verify rake-db migration history and data migration scenarios on PostgreSQL.
-- [`graphql-orm`](https://github.com/IlyaSemenov/graphql-orm) (`objection-graphql-resolver`, `orchid-graphql`) — Resolve GraphQL queries against Objection.js or Orchid ORM tables and relations.
+- [`orchid-graphql`](https://github.com/IlyaSemenov/graphql-orm/tree/master/packages/orchid) — Resolve GraphQL queries against Orchid ORM tables and relations.
+- [`objection-graphql-resolver`](https://github.com/IlyaSemenov/graphql-orm/tree/master/packages/objection) — Resolve GraphQL queries against Objection.js models and relations.
 
 <details>
 <summary><strong>Earlier work</strong></summary>
@@ -60,7 +61,8 @@ Here's what I've built:
 
 - [`vue-form-submit`](https://github.com/IlyaSemenov/vue-form-submit) — Small Vue 3 composables for form submission and optional Standard Schema validation.
 - [`vue-router-navigation`](https://github.com/IlyaSemenov/vue-router-navigation) — Navigation helpers for deeply nested Vue Router paths.
-- [`orpc-nuxt`](https://github.com/IlyaSemenov/orpc-nuxt) — oRPC integration for Nuxt with TanStack Vue Query composables.
+- [`orpc-vue`](https://github.com/IlyaSemenov/rpc-vue/tree/main/packages/orpc-vue) — oRPC integration for Vue and Nuxt with TanStack Vue Query composables.
+- [`trpc-vue`](https://github.com/IlyaSemenov/rpc-vue/tree/main/packages/trpc-vue) — tRPC integration for Vue and Nuxt with TanStack Vue Query composables.
 - [`nuxt-request-context`](https://github.com/IlyaSemenov/nuxt-request-context) — Provide typed request-specific data to Nuxt before the initial render.
 - [`nuxt-surface`](https://github.com/IlyaSemenov/nuxt-surface) — Serve several sites from one Nuxt app, each with its own pages at the same URLs.
 - [`nuxt-hydration-gate`](https://github.com/IlyaSemenov/nuxt-hydration-gate) — Nuxt hydration marker for CSS, scripts, and E2E tests.
