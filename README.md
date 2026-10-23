@@ -103,7 +103,8 @@ Here's what I've built:
 
 ## Development tooling
 
-- [`bunlock-dedupe`](https://github.com/IlyaSemenov/bunlock-dedupe) — Analyze and deduplicate dependencies in `bun.lock`.
+- [`bunlock-dedupe`](https://github.com/IlyaSemenov/bunlock-tools/tree/main/packages/dedupe) — Analyze and deduplicate dependencies in `bun.lock`.
+- [`bun-nested-workspace`](https://github.com/IlyaSemenov/bunlock-tools/tree/main/packages/nested-workspace) — Embed a checkout of another Bun workspace repository and keep the host `package.json` and `bun.lock` in sync with it.
 - [`vite-plugin-module-boundaries`](https://github.com/IlyaSemenov/vite-plugin-module-boundaries) — Fail Vite builds when imports cross configured filesystem boundaries.
 - [`oxc-config`](https://github.com/IlyaSemenov/oxc-config) — Reusable oxlint, oxfmt, and ESLint configurations for projects I develop or oversee.
 - [`eslint-config`](https://github.com/IlyaSemenov/eslint-config) — Reusable ESLint configuration for projects I develop or oversee.
