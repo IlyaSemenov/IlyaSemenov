@@ -6,9 +6,13 @@ Here's what I've built:
 
 ## TypeScript and Node.js
 
+### Main projects
+
+- [`kern-orm`](https://github.com/IlyaSemenov/kern-orm) — Fully typed relational query builder for PostgreSQL with ambient transactions and single-query relation loading.
+- [`ripple-di`](https://github.com/IlyaSemenov/ripple-di) — Next-generation DI for TypeScript with async scopes, transitive overrides, and automatic resource cleanup.
+
 ### General-purpose libraries
 
-- [`ripple-di`](https://github.com/IlyaSemenov/ripple-di) — Next-generation DI for TypeScript with async scopes, transitive overrides, and automatic resource cleanup.
 - [`async-dedupe`](https://github.com/IlyaSemenov/async-dedupe) — Deduplicate concurrent calls to an async function.
 - [`json-mark`](https://github.com/IlyaSemenov/json-mark) — Serialize custom JSON types using tagged strings.
 - [`intl-formats`](https://github.com/IlyaSemenov/intl-formats) — Functional wrappers around `Intl.DateTimeFormat` and `Intl.NumberFormat`.
