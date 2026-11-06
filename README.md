@@ -69,6 +69,7 @@ Here's what I've built:
 - [`trpc-vue`](https://github.com/IlyaSemenov/rpc-vue/tree/main/packages/trpc-vue) — tRPC integration for Vue and Nuxt with TanStack Vue Query composables.
 - [`nuxt-request-context`](https://github.com/IlyaSemenov/nuxt-request-context) — Provide typed request-specific data to Nuxt before the initial render.
 - [`nuxt-surface`](https://github.com/IlyaSemenov/nuxt-surface) — Serve several sites from one Nuxt app, each with its own pages at the same URLs.
+- [`nuxt-multi-app`](https://github.com/IlyaSemenov/nuxt-multi-app) — Run several independent Nuxt applications behind one HTTP server.
 - [`nuxt-hydration-gate`](https://github.com/IlyaSemenov/nuxt-hydration-gate) — Nuxt hydration marker for CSS, scripts, and E2E tests.
 - [`nuxt-vitest-shared-app`](https://github.com/IlyaSemenov/nuxt-vitest-shared-app) — Run Nuxt component tests in Vitest on one shared app per worker, with per-test cleanup.
 - [`nuxt3-class-component`](https://github.com/IlyaSemenov/nuxt3-class-component) — Class-component support for Nuxt 3/4 and a migration path from `nuxt-property-decorator`.
