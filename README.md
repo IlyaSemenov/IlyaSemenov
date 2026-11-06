@@ -14,7 +14,7 @@ Here's what I've built:
 ### General-purpose libraries
 
 - [`async-dedupe`](https://github.com/IlyaSemenov/async-dedupe) — Deduplicate concurrent calls to an async function.
-- [`json-mark`](https://github.com/IlyaSemenov/json-mark) — Serialize custom JSON types using tagged strings.
+- [`json-mark`](https://github.com/IlyaSemenov/json-mark) — Serialize custom types in JSON with tagged strings.
 - [`intl-formats`](https://github.com/IlyaSemenov/intl-formats) — Functional wrappers around `Intl.DateTimeFormat` and `Intl.NumberFormat`.
 - [`valibotx`](https://github.com/IlyaSemenov/valibotx) — Tree-shakeable extensions for Valibot.
 
