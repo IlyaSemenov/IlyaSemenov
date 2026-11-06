@@ -101,7 +101,7 @@ Here's what I've built:
 
 ## Applications and integrations
 
-- [`git-telegram-bot`](https://github.com/IlyaSemenov/git-telegram-bot) — Forward GitHub and GitLab webhook events to Telegram, including workflows, pipelines, and branch filtering.
+- [`webhook-telegram-bot`](https://github.com/IlyaSemenov/webhook-telegram-bot) — Forward GitHub, GitLab, and Sentry webhook events to Telegram, including workflows, pipelines, and branch filtering.
 - [`terneo-ha`](https://github.com/IlyaSemenov/terneo-ha) — Local Home Assistant integration for Terneo thermostats, without a cloud dependency.
 - [`wikipedia-word-frequency`](https://github.com/IlyaSemenov/wikipedia-word-frequency) — Generate multilingual word-frequency datasets from Wikipedia dumps.
 
