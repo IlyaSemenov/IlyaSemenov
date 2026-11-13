@@ -118,6 +118,7 @@ Here's what I've built:
 - [`tsconfig-vite-node`](https://github.com/IlyaSemenov/tsconfig-vite-node) — Opinionated TSConfig for Node applications run with `vite-node` or built with Vite.
 - [`npm-package-starter`](https://github.com/IlyaSemenov/npm-package-starter) — Scaffold and synchronize production TypeScript npm packages from reusable conventions.
 - [`changesets-local`](https://github.com/IlyaSemenov/changesets-local) — Release Changesets packages and monorepos from your terminal, without a Version pull request or CI publishing.
+- [`sops-env`](https://github.com/IlyaSemenov/sops-env) — Print the env section of a SOPS-encrypted file as `KEY=VALUE` lines, optionally with base64-encoded values.
 - [`gitlab-ci-git-push`](https://github.com/IlyaSemenov/gitlab-ci-git-push) — Push repository changes from GitLab CI.
 
 <details>
