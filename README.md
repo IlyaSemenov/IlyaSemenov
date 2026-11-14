@@ -8,7 +8,11 @@ Here's what I've built:
 
 ### Main projects
 
-- [`kern-orm`](https://github.com/IlyaSemenov/kern-orm) — Fully typed relational query builder for PostgreSQL with ambient transactions and single-query relation loading.
+- **kern** — PostgreSQL toolkit for TypeScript:
+  - [`kern-orm`](https://github.com/IlyaSemenov/kern-orm) — Fully typed relational query builder for PostgreSQL with ambient transactions and single-query relation loading.
+  - [`kern-jobs`](https://github.com/IlyaSemenov/kern-jobs) — Background jobs on PostgreSQL: typed tasks, transactional enqueue, keys, debounce, queues, and leases.
+  - [`kern-migrations`](https://github.com/IlyaSemenov/kern-orm/tree/main/packages/migrations) — Write PostgreSQL migrations with schema helpers, SQL, or TypeScript functions, ship them in a package, and test them.
+  - [`kern-db`](https://github.com/IlyaSemenov/kern-orm/tree/main/packages/db) — The database layer under the other kern packages: ambient transactions, typed SQL queries, and test transactions.
 - [`ripple-di`](https://github.com/IlyaSemenov/ripple-di) — Next-generation DI for TypeScript with async scopes, transitive overrides, and automatic resource cleanup.
 
 ### General-purpose libraries
